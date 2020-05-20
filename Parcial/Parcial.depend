@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1589985906 source:c:\users\dceri\desktop\cerianapplabparte2\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mascotas.h"
+	"validaciones.h"
+	"servicios.h"
+	"trabajo.h"
+	"informes.h"
+
+1589977411 source:c:\users\dceri\desktop\cerianapplabparte2\parcial\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+	"servicios.h"
+
+1589941190 c:\users\dceri\desktop\cerianapplabparte2\parcial\validaciones.h
+
+1589941174 c:\users\dceri\desktop\cerianapplabparte2\parcial\servicios.h
+
+1589986535 source:c:\users\dceri\desktop\cerianapplabparte2\parcial\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mascotas.h"
+	"validaciones.h"
+	"servicios.h"
+	"trabajo.h"
+
+1589982845 c:\users\dceri\desktop\cerianapplabparte2\parcial\mascotas.h
+
+1589976251 c:\users\dceri\desktop\cerianapplabparte2\parcial\trabajo.h
+
+1589941145 source:c:\users\dceri\desktop\cerianapplabparte2\parcial\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1589982638 source:c:\users\dceri\desktop\cerianapplabparte2\parcial\mascotas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mascotas.h"
+	"validaciones.h"
+	"servicios.h"
+	"trabajo.h"
+
+1589985867 source:c:\users\dceri\desktop\cerianapplabparte2\parcial\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mascotas.h"
+	"validaciones.h"
+	"servicios.h"
+	"trabajo.h"
+	"informes.h"
+
+1589984503 c:\users\dceri\desktop\cerianapplabparte2\parcial\informes.h
+
